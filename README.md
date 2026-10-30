@@ -54,6 +54,6 @@ Save genuine screenshots in `screenshots/`: `homepage.png`, `forecast.png`, and 
 Synthetic data does not represent a real supply chain. The moving-average baseline may miss trend changes, promotions, holidays, lead times, and stockouts. Real use requires appropriate data and time-aware validation.
 
 ## Internship Metadata
-- Intern ID: CITS9598
+- Intern ID: CITS9608
 - Full Name: Apeksha Mahadev Mundey
 - Duration: 4 weeks
